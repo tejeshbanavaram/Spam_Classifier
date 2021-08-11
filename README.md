@@ -1,8 +1,12 @@
 # Spam_Classifier
  Spam classifier model using bag of words concept in NLP
 
-Libraries used - Nltk & Scikit-learn
-Model used - feature extraction using CountVectorizer and model training with MultinomialNB
+Libraries used - 
+1. Nltk & Scikit-learn
+
+Model used - 
+1. Feature extraction using CountVectorizer
+2. Model training with MultinomialNB
 
 Steps:
 1. Read csv file
